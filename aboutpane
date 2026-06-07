@@ -1,0 +1,3 @@
+#!/bin/bash
+exec -a aboutpane python3 "$(dirname "$(realpath "$0")")/aboutpane.py" "$@"
+

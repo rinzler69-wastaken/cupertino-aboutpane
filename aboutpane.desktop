@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=About This System
+GenericName=About This System
+Comment=System information
+Exec=aboutpane
+Icon=computer-laptop
+Terminal=false
+StartupNotify=false
+StartupWMClass=aboutpane
+Categories=GNOME;GTK;System;
