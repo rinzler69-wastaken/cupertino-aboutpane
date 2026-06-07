@@ -67,5 +67,5 @@ WACK (WACK Ain't Cupertino, Kid) brings the best design patterns from macOS to t
 
 Other projects in the suite:
 - **[WACK Shell](https://github.com/rinzler69-wastaken/wack-shell)** — logo menu, app menu, workspace widget, panel proximity coloring
-- **[WACK Lockscreen Clock](https://extensions.gnome.org/extension/wack-sonoma-lockscreen)** — macOS Sonoma-style lockscreen clock
+- **[WACK Sonoma Lockscreen](https://github.com/rinzler69-wastaken/wack-sonoma-lockscreen)** — macOS Sonoma-style lockscreen clock
 - **[Cupertino Dock Lite](https://github.com/rinzler69-wastaken/cupertino-dock-lite)** — macOS-inspired dock theming and bounce animations
